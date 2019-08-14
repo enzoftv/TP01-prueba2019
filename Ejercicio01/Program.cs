@@ -25,7 +25,7 @@ namespace Ejercicio01
                 default:
                     Console.WriteLine("d");
                     break;
-                     //
+                     //ffffff
             }
         }
     }
